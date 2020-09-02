@@ -25,11 +25,11 @@ public class SolucionadorEkc {
 		f.repaint();
 	}
 
-}
+}//fin CLASS-publik
 
 
 
-class FrameDelSolucionador extends JFrame{
+class FrameDelSolucionador extends JFrame{ //pasar esta clase a su propio archivo......
 	
 	private JTextArea areaSalidaJFCH; //JFileChooser
 	private JScrollPane scrollPJFCH;
@@ -132,8 +132,8 @@ class FrameDelSolucionador extends JFrame{
 	
 	private JSplitPane acrSplit() {
 		JSplitPane dRet = new JSplitPane( JSplitPane.HORIZONTAL_SPLIT );
-		dRet.setRightComponent(  );
-		dRet.setLeftComponent(  );
+		//dRet.setRightComponent(  );
+		//dRet.setLeftComponent(  );
 		
 		
 		
