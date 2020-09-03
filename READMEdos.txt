@@ -1,0 +1,3 @@
+Este archivo ni sirve, se puede eliminar en cualquier momento y nadie lo extranhara...
+
+Creado en la rama master, aun ni siquiera existe archivo SVG que modele el diagramaUML de este proyecto
